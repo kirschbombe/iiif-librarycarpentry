@@ -3,7 +3,8 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is IIIF?"
+- "What can I do with IIIF resources?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
@@ -12,4 +13,3 @@ keypoints:
 FIXME
 
 {% include links.md %}
-
